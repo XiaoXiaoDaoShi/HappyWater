@@ -1,0 +1,3 @@
+
+MYSQL_USER = "root"
+MYSQL_PASSWD = "123456"
